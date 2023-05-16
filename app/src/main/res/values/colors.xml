@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorHouse">#361500</color>
+    <color name="ballonOrange">#FF7000</color>
+    <color name="ballonYellow">#FFBF00</color>
+    <color name="colorBackground">#7286D3</color>
+    <color name="colorDaun">#16FF00</color>
+    <color name="rumput">#54B435</color>
+    <color name="dinding">#CBB279</color>
+    <color name="pintu">#683b12</color>
+    <color name="jendela">#62bbdb</color>
+</resources>
